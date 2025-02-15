@@ -1,2 +1,2 @@
-# Querying-data_presentation_data_visualization
-R Programming Language
+# Project Description
+My journey getting familiar with R Programming Language
